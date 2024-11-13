@@ -1,4 +1,4 @@
-This is a simple banking system project, made with python and OOP. (inspired by a online course about python on Udemy, it has the same idea and some similarities, but my version of implementation)
+This is a simple banking system project, made with python and OOP. 
 
 It consists of two classes - bank and client. 
 
